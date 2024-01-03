@@ -1,3 +1,5 @@
 {
-  "posts": "Success"
+  "posts": [
+    { "status": "Success" },
+  ]
 }
